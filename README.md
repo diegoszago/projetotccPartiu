@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=FlyukQujfYk&feature=youtu.be
 Facebook:
 https://www.facebook.com/appartiu/
 
+Google Play:
+https://play.google.com/store/apps/details?id=br.partiu.com&hl=pt_BR
+
 Tecnologias Utilizadas:
 HTML5
 CSS3
