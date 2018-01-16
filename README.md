@@ -1,6 +1,12 @@
 # projetotccPartiu
 Web App no formato de rede social para pessoas que querem conhecer lugares próximos.
 
+Vídeo:
+https://www.youtube.com/watch?v=FlyukQujfYk&feature=youtu.be
+
+Facebook:
+https://www.facebook.com/appartiu/
+
 Tecnologias Utilizadas:
 HTML5
 CSS3
